@@ -1,1 +1,8 @@
-/* css styles */
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/* Set link color */
+a {
+  color: orange;
+}
