@@ -1,0 +1,80 @@
+---
+title: "Hey! I'm Jake"
+pagetitle: "Jake Cox"
+---
+
+I'm a Chicago-based journalist and digital producer studying at DePaul University, graduating June 2026. I serve as Digital Managing Editor at The DePaulia, where I combine data, web presentation and news editing to build products that engage readers.
+
+I pioneered the live blog format for breaking news coverage, led a website redesign and grew newsletter audience sixfold. I'm also a newsletter intern at Block Club Chicago, creating daily emails that connect readers with local stories while contributing coverage and audience strategy.
+
+I'm earning a geographic information systems certificate to strengthen my data reporting skills and am excited to bring my passion for local journalism, data and audience engagement to any newsroom.
+
+## **Get in Touch**
+
+[Email](mailto:coxja2204@gmail.com) / [Linkedin](https://www.linkedin.com/in/jakercox/) / [Github](https://github.com/jakec04)
+
+## Technical Skills
+
+-   **Report and write** across formats: breaking news, features, investigations and explainers
+
+-   **Pitch, source and interview** independently to produce original enterprise stories
+
+-   **Edit** copy for clarity, structure and AP style under deadline
+
+-   **Capture and edit** photos for daily and feature coverage using Lightroom and Photoshop
+
+-   **Shoot, edit and package** video with motion graphics in Premiere Pro and After Effects
+
+-   **File** FOIA requests and report using public records
+
+-   **Clean, scrape and analyze** data with Excel, Python (pandas, BeautifulSoup) and R
+
+-   **Create** interactive data visualizations in Datawrapper and Flourish
+
+-   **Build and style** web pages and newsletters with HTML, CSS and Quarto
+
+-   **Manage** projects with Git and GitHub for version control and collaborative workflows
+
+-   **Map and analyze** spatial data with ArcGIS Pro, Leaflet and R
+
+-   **Design** layouts and visuals in Adobe InDesign, Illustrator and Photoshop
+
+-   **Write** audience-facing content including social copy, newsletters and SEO-optimized headlines
+
+## Honors
+
+CHICAGO HEADLINE CLUB
+
+-   [**Peter Lisagor Award, Deadline Reporting**](https://depauliaonline.com/69974/news/live-updates-students-hold-encampment-for-divestment-on-depaul-quad/)
+
+ASSOCIATED COLLEGIATE PRESS & COLLEGE MEDIA ASSOCIATION
+
+-   [**4th Place, Best News Story**](https://depauliaonline.com/71546/news/campusnews/thats-not-doing-security-to-me-privately-contracted-security-guard-relocated-off-depaul-campus/)
+
+-   [**6th Place, Best of Show — News Website**](https://depauliaonline.com/)
+
+-   [**6th Place, Best of Show — Print Design**](https://jakec04.github.io/print_6th.pdf)
+
+-   [**Honorable Mention, Best In-Depth News Story**](https://depauliaonline.com/70601/news/campusnews/cpd-public-safety-tear-down-depaul-protest-encampment/#live-update-71278)
+
+-   **Honorable Mention, Best Newspaper Front Page**
+
+-   **Honorable Mention, Best Informational Graphic**
+
+ILLINOIS COLLEGE PRESS ASSOCIATION
+
+-   [**1st Place, Newsletter**](https://thedepaulia.substack.com/p/the-2024-basketball-season-preview)
+
+-   **1st Place, Sports Page Design**
+
+-   **1st Place, Opinion Page Design**
+
+-   **2nd Place, Feature Page Design**
+
+-   **Honorable Mention, Front Page Layout**
+
+**DEPAUL SCHOLARSHIPS**
+
+-   **DePaul Presidential Scholarship**
+
+-   **New York Way Journalism Scholarship**

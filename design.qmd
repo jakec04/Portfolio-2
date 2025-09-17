@@ -1,0 +1,31 @@
+---
+title: "Design & Data"
+toc: false
+---
+
+[**Parents, lawmakers battle over Illinois Homeschool Act**](https://www.nbcchicago.com/news/local/parents-lawmakers-battle-over-illinois-homeschool-act-what-to-know/3760545/)\
+*NBC 5* — Interactive map of Illinois legislative testimony patterns using witness slip data.
+
+[**Second DePaul student sues DHS**](https://depauliaonline.com/76857/news/second-depaul-student-sues-dhs-over-loss-of-student-visa/)\
+*The DePaulia* — Map tracking international student visa revocations.
+
+[**Empty desks and disengagement**](https://depauliaonline.com/76235/news/empty-desks-and-disengagement-rethinking-attendance-in-a-post-pandemic-world/)\
+*The DePaulia* — Post-pandemic attendance analysis by district and demographics.
+
+[**DePaul is standing firm on DEI**](https://depauliaonline.com/75167/news/depaul-is-standing-firm-on-dei-wont-be-bullied/)\
+*The DePaulia* — Hierarchy chart of federal funds at risk under compliance changes.
+
+[**Basketball attendance is on the rebound**](https://depauliaonline.com/75005/sports/depaul-basketball-attendance-is-on-the-rebound/)\
+*The DePaulia* — Multi-year sports attendance trends and fan engagement.
+
+[**Live Updates: 2024 Election**](https://depauliaonline.com/73067/2024-elections/live-updates-the-2024-election-is-finally-here/)\
+*The DePaulia* — Poll-close times and live calls visualized on a national map.
+
+[**Swing-state young women and the election**](https://depauliaonline.com/73019/2024-election-issue/swing-state-young-women-may-help-decide-the-election-focused-on-reproductive-rights/)\
+*The DePaulia* — Demographic analysis of voting patterns and turnout.
+
+[**SGA divestment referendum**](https://depauliaonline.com/70994/news/campusnews/breaking-sga-overwhelmingly-passes-referendum-on-divestment-from-israel/)\
+*The DePaulia* — Breakdown of student government voting results.
+
+[**Everything you need to know to vote**](https://depauliaonline.com/68692/news/everything-you-need-to-know-to-vote-in-the-illinois-primary/#live-update-71278)\
+*The DePaulia* — Voter guide with custom maps to nearby polling places.

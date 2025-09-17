@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - .nojekyll
+
+website:
+  title: "Jake Cox"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - bylines.qmd
+      - design.qmd
+    search: false
+
+format:
+  html:
+    theme:
+      - simplex
+    page-layout: article
+    css: styles.css
+    toc: false
+
+editor: visual
